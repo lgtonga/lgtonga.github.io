@@ -1,7 +1,7 @@
 package com.test.soft.tlg.hello;
 
 /**
- * ÌìÏÂÒ» *
+ * edfdsfsdfsd *
  */
 public class App 
 {
