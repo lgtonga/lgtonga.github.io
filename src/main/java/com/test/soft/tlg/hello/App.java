@@ -1,7 +1,7 @@
 package com.test.soft.tlg.hello;
 
 /**
- * 天下第一 *
+ * 天下一 *
  */
 public class App 
 {
